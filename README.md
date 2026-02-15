@@ -1,1 +1,1 @@
-# PDF-Text-Reader-in-Go
+# PDF-Text-Reader-in-Node
